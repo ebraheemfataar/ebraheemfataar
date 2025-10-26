@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Banner](https://raw.githubusercontent.com/ebraheemfataar/ebraheemfataar/main/banner.png)
-
 # 👋 Hi, I’m Ebraheem Fataar  
 
 **Full-Stack Software Engineer (React | .NET) · Cape Town, South Africa**
@@ -29,32 +26,6 @@ When I’m not coding, you’ll find me cycling, running marathons, or brainstor
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧾 [PDF-to-Word Converter](https://github.com/ebraheemfataar/pdf-to-word-converter)
-**AI document converter** that transforms scanned or digital PDFs into editable Word docs using OCR (`pytesseract`) and `pdf2docx`.  
-- Supports bulk uploads, file cleanup, and ZIP downloads  
-- Frontend: React (with loading spinner + file upload)  
-- Backend: FastAPI + Python OCR
-
-### ⚙️ [Burial Scheme API v2](https://github.com/ebraheemfataar/burialschemeapp_v2)
-RESTful Spring Boot backend for managing burial scheme members, contributions, and claims.  
-- MySQL + Hibernate (JPA) + Spring Security  
-- Mail & Azure deployment setup  
-- Includes Docker + CI/CD workflow
-
-### 🌐 [Himify Web Hosting Platform](https://github.com/himify-dev)
-A multi-tenant WordPress-based platform that helps small businesses launch their online stores and portfolios quickly.  
-- Includes hosting, SSL, and site templates  
-- PayFast integration + optional monthly SLA
-
-### 🏉 [Cape Sevens Hub](https://github.com/ebraheemfataar/cape-sevens-hub)
-Static site for South African Rugby Sevens tournaments, built for youth engagement.  
-- Timetables, team listings, and match results  
-- Deployed via GitHub Pages + automated deploy scripts
-
----
-
 ## 📊 GitHub Analytics
 
 ![Ebraheem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebraheemfataar&show_icons=true&theme=tokyonight)
@@ -74,11 +45,9 @@ Static site for South African Rugby Sevens tournaments, built for youth engageme
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/-Ebraheem%20Fataar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebraheem-fataar/)
-[![Website](https://img.shields.io/badge/-ebraheemfataar.com-1A2819?logo=googlechrome&logoColor=white)](https://ebraheemfataar.com)
-[![Instagram](https://img.shields.io/badge/-@himifyofficial-833AB4?logo=instagram&logoColor=white)](https://instagram.com/himifyofficial)
 [![GitHub](https://img.shields.io/badge/-@ebraheemfataar-black?logo=github&logoColor=white)](https://github.com/ebraheemfataar)
 
 ---
 
-> 🧠 *“Code what excites you. Build what challenges you. Improve a little every day.”*  
+> 🧠 *“Being careful and overthinking are not the same, just do it”*  
 > — Ebraheem Fataar
